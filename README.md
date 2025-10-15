@@ -140,7 +140,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<deekshitha/slotapp/static/Screenshot (42).png>)
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/617c339e-138b-407a-adac-9e1d9f23134f" />
+
 
 
 ## RESULT

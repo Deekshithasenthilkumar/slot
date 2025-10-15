@@ -140,7 +140,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-29 142836.png>)
+![alt text](<deekshitha/slotapp/static/Screenshot (42).png>)
 
 
 ## RESULT

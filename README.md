@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-````
+```
 <!DOCTYPE html>
 <html >
 <head>
@@ -58,7 +58,7 @@ Execute the program using runserver command.
     }
   </style>
 </head>
-    <img src="Screenshot 2025-09-29 140225.png " alt="Background Image" style="width:300px; margin-bottom:20px;">
+    <img src="./logo.png" alt="Background Image" style="width:300px; margin-bottom:20px;">
     <h2>SLOT TIME TABLE - DEEKSHITHA(25014669)</h2>
   
   <table>
@@ -109,6 +109,8 @@ Execute the program using runserver command.
       <td >DS</td>
       <td >DS</td>
       <td >C PROGRAM</td>
+    </tr>
+  </table>      
       
 <table>
     <tr>
@@ -133,9 +135,8 @@ Execute the program using runserver command.
     </tr>
      
   </table>
-
-
-  ````
+</html>
+```
 
 
 ## OUTPUT

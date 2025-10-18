@@ -140,7 +140,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/617c339e-138b-407a-adac-9e1d9f23134f" />
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/11ee82b1-bb5d-41ff-9f09-0c6a2850331b" />
+
 
 
 
